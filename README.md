@@ -7,3 +7,5 @@ This is give cartoon effect to any image using [Open-CV](https://opencv.org/).
 - clone the project.
 
 - Open [Google co-lab](colab.research.google.com) and run the file.
+
+
